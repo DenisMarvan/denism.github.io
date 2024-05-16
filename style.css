@@ -1,0 +1,49 @@
+body {
+    background-color: #242222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.encode-sans {
+  font-family: "Encode Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.opicka {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: "Encode Sans", sans-serif;
+    text-decoration: none;
+    
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+    color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
